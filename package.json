@@ -1,0 +1,21 @@
+{
+    "name": "ra-language-estonian",
+    "version": "0.2.0",
+    "description": "Estonian messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tui-ru/ra-language-estonian.git"
+    },
+    "keywords": [
+        "react",
+        "react-admin",
+        "translation"
+    ],
+    "author": "Anton Lukichev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tui-ru/ra-language-estonian/issues"
+    },
+    "homepage": "https://github.com/tui-ru/ra-language-estonian"
+}
