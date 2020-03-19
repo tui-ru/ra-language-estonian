@@ -15,7 +15,7 @@ npm install --save ra-language-estonian
 ## Usage
 
 ```js
-import lithuanianMessages from 'ra-language-lithuanian';
+import estonianMessages from 'ra-language-estonian';
 import polyglotI18nProvider from 'ra-i18n-polyglot';
 
 const messages = {
